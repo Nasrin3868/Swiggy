@@ -1,0 +1,357 @@
+body{
+    margin: 0;
+    padding-bottom: 500px;
+}
+.swiggy-icon{
+    width: 180px;
+    margin-top: 60px;
+    margin-left: 160px;
+}
+.login{
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 250px;
+}
+.login:hover{
+    color: hsl(33, 97%, 52%);;
+}
+.sign-up{
+    border: none;
+    background-color: black;
+    color: white;
+    padding-top: 13px;
+    padding-left: 27px;
+    padding-bottom: 13px;
+    padding-right: 27px;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 330px;
+}
+.heading{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 160px;
+    color: #484747;
+    font-size: 40px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.side-head{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 160px;
+    color: #706e6e;
+}
+.textbox{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: -180px;
+    font-size: 17px;
+    font-weight: 20px;
+    padding-left: 20px;
+    padding-right: 290px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.locateMe{
+    background-color: white;
+    border: none;
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 245px;
+    color: #706e6e;
+    cursor: pointer;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+}
+.locateMe:hover{
+    background-color: rgb(237, 236, 236);
+}
+.findfood{
+    background-color: hsl(33, 97%, 52%);
+    border: none;
+    color: white;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 345px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 23px;
+    padding-bottom: 22.5px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .53px;
+}
+.popular{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 160px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #a19c9c;
+}
+.cities{
+    display: flex;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: bold;
+}
+.ahmedabad{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 160px;
+    color: #646262;
+    cursor: pointer;
+}
+.banglore{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 260px;
+    color: #a19c9c;
+    cursor: pointer;
+}
+.chennai{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 345px;
+    color: #646262;
+    cursor: pointer;
+}
+.delhi{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 415px;
+    color: #a19c9c;
+    cursor: pointer;
+}
+.gurgaon{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 470px;
+    color: #646262;
+    cursor: pointer;
+}
+.hyderabad{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 545px;
+    color: #a19c9c;
+    cursor: pointer;
+}
+.kolkata{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 640px;
+    color: #646262;
+    cursor: pointer;
+}
+.mumbai{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 710px;
+    color: #a19c9c;
+    cursor: pointer;
+}
+.pune{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 160px;
+    color: #646262;
+    cursor: pointer;
+}
+.more{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 200px;
+    color: #a19c9c;
+    cursor: pointer;
+}
+.pic1{
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 918px;
+    object-fit: cover;
+}
+.grid2{
+    display: grid;
+    height: 400px;
+    grid-template-columns: 439px 439px 589px;
+    position: absolute;
+    margin-top: 410px;
+    background-color: rgb(31, 17, 17);
+}
+
+.pic{
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.headline{
+    color: white;
+    font-weight: bolder;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 180px;
+}
+.bottomline{
+    color: rgb(225, 207, 207);
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 150px;
+}
+.grid3{
+    display: grid;
+    height: 500px;
+    grid-template-columns: 1467px;
+    position: absolute;
+    margin-top: 810px;
+}
+.pocket{
+    font-size: 40px;
+    font-weight: bolder;
+    line-height: 1;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    margin-left: 45px;
+    margin-top: 130px;
+}
+.pocket-text{
+    font-size: 18px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    margin-left: 45px;
+    position: absolute; 
+    margin-top: 230px;
+}
+.google-play{
+    width: 190px;
+    margin-left: 45px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.app-store{
+    width: 190px;
+    margin-left:255px;
+    margin-top: -105px;
+    cursor: pointer;
+}
+.pic2{
+    position: absolute; 
+    width: 370px;
+    height: 450px;
+    object-fit: cover;
+    margin-left: 580px; 
+}
+.pic3{
+    position: absolute; 
+    margin-top: 30px;
+    width: 370px;
+    object-fit: cover;
+    margin-left: 925px; 
+}
+.grid4{
+    display: grid;
+    height: 380px;
+    padding-left: 155px;
+    padding-right: 155px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    grid-template-columns: 289.25px 289.25px 369.25px 209.25px ;
+    position: absolute;
+    margin-top: 1310px;
+    background-color: black;
+
+}
+.header-in-footer{
+    color: #858484;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.link-in-footer{
+    color: white;
+    text-decoration: none;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 17px;
+    line-height: 35px;
+    cursor: pointer;
+}
+.footer-icon{
+    margin-top: 20px;
+    margin-left: 50px;
+    line-height: 80px;
+    cursor: pointer;
+}
+.line{
+    width: 1220px;
+    height: 20px;
+    color: rgb(138, 125, 125);
+    background-color: black;
+    padding-left: 155px;
+    padding-right: 100px;
+    position: absolute;
+    margin-top: 1755px;
+}
+
+.grid5{
+    display: grid;
+    height: 710px;
+    padding-left: 155px;
+    padding-right: 155px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    grid-template-columns: 289.25px 289.25px 289.25px 289.25px ;
+    position: absolute;
+    margin-top: 1770px;
+    background-color: black;
+}
+.line1{
+    width: 1162.8px;
+    height: 20px;
+    color: rgb(138, 125, 125);
+    background-color: black;
+    padding-left: 155px;
+    padding-right: 150px;
+    position: absolute;
+    margin-top: 2495px;
+}
+.grid6{
+    display: grid;
+    height: 100px;
+    padding-left: 155px;
+    padding-right: 155px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    grid-template-columns: 385.67px 385.67px 385.67px ;
+    position: absolute;
+    margin-top: 2515px;
+    background-color: black;
+}
+.last-icon{
+    width: 150px;
+    cursor: pointer;
+}
+.last-text{
+    color: white;
+    margin-left: 160px;
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+
+.icon{
+    margin-top: 10px;
+    width: 25px;
+    margin-right: 20px;
+    margin-top: 25px;
+    cursor: pointer;
+}
